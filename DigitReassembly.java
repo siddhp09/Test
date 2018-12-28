@@ -3,7 +3,7 @@ package schoolProjects;
 import java.util.Scanner;
 
 public class DigitReassembly {
-	// 1325678905 2
+	// 1325678905 23
 	// 54981230845791 5
 	// 4837261529387456 3
 	// 385018427388713440 4
