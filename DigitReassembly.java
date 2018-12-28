@@ -7,7 +7,7 @@ public class DigitReassembly {
 	// 54981230845791 5
 	// 4837261529387456 3
 	// 385018427388713440 4
-	// 623387770165388734 11
+	// 623387770165388734 1
 
 	public static void main(String[] args) {
 		Scanner scn = new Scanner(System.in);
